@@ -25,21 +25,21 @@ knowledge/
 
 | 文档 | 主题 | 来源 |
 |------|------|------|
-| [Agent Skills 工程化](ai/agent/test-driven-skills.md) | 测试驱动的 Skill 构建指南 | 抖音 @AI启蒙小伙伴 |
-| [Agent 生态概念](ai/concepts/agent-ecosystem.md) | Skills/MCP/Projects/Prompt 辨析 | 抖音 @清华姜学长 |
-| [AI 产品经理技能](ai/product/ai-pm-skills.md) | 从做功能到做判断的转变 | 抖音 @林木聊AI |
+| [20260413-测试驱动的AgentSkills工程化构建](ai/agent/20260413-测试驱动的AgentSkills工程化构建.md) | 测试驱动的 Skill 构建指南 | 抖音 @AI启蒙小伙伴 |
+| [20260220-SkillsMCPProjectsPrompt辨析](ai/concepts/20260220-SkillsMCPProjectsPrompt辨析.md) | Skills/MCP/Projects/Prompt 辨析 | 抖音 @清华姜学长 |
+| [20260402-AI产品经理入行技能](ai/product/20260402-AI产品经理入行技能.md) | 从做功能到做判断的转变 | 抖音 @林木聊AI |
 
 ### 商业
 
 | 文档 | 主题 | 来源 |
 |------|------|------|
-| [AI 时代效率悖论](business/ai-efficiency-paradox.md) | 个人效率≠组织效率 | 抖音 @科技最前线 / A16Z |
+| [20260401-AI时代效率悖论](business/20260401-AI时代效率悖论.md) | 个人效率≠组织效率 | 抖音 @科技最前线 / A16Z |
 
 ### 社会
 
 | 文档 | 主题 | 来源 |
 |------|------|------|
-| [失范时代生存策略](society/surviving-anomie-era.md) | 经济周期尾声的应对 | 抖音 @傻白呀 |
+| [20260406-失范时代的生存策略](society/20260406-失范时代的生存策略.md) | 经济周期尾声的应对 | 抖音 @傻白呀 |
 
 ---
 
